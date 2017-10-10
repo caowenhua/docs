@@ -1,5 +1,5 @@
 =====================
-MongoDB Wire Protocol
+MongoDB Write Protocol
 =====================
 
 .. default-domain:: mongodb
